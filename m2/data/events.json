@@ -1,0 +1,414 @@
+[
+  {
+    "batch_id": 1,
+    "batch_name": "Q1 Events",
+    "records": [
+      {
+        "event_name": "Local DuckDB User Group",
+        "city": "Toronto",
+        "attendees": 27,
+        "event_date": "2023-02-24",
+        "virtual": true
+      },
+      {
+        "event_name": "SQL Analytics Workshop",
+        "city": "New York",
+        "attendees": 32,
+        "event_date": "2023-03-10",
+        "virtual": false
+      },
+      {
+        "event_name": "SQL Analytics Workshop",
+        "city": "Amsterdam",
+        "attendees": 27,
+        "event_date": "2023-03-09",
+        "virtual": true
+      },
+      {
+        "event_name": "Analytics Unconference",
+        "city": "London",
+        "attendees": 91,
+        "event_date": "2023-01-29",
+        "virtual": true
+      },
+      {
+        "event_name": "DuckDB Hands-On Lab",
+        "city": "Berlin",
+        "attendees": 58,
+        "event_date": "2023-02-19",
+        "virtual": true
+      },
+      {
+        "event_name": "DuckDB Hands-On Lab",
+        "city": "Sydney",
+        "attendees": 291,
+        "event_date": "2023-02-08",
+        "virtual": false
+      },
+      {
+        "event_name": "Open Source Data Day",
+        "city": "New York",
+        "attendees": 275,
+        "event_date": "2023-02-25",
+        "virtual": false
+      }
+    ]
+  },
+  {
+    "batch_id": 2,
+    "batch_name": "Q2 Events",
+    "records": [
+      {
+        "event_name": "Data Nerds Gathering",
+        "city": "Amsterdam",
+        "attendees": 141,
+        "event_date": "2023-04-22",
+        "virtual": true
+      },
+      {
+        "event_name": "SQL Analytics Workshop",
+        "city": "Amsterdam",
+        "attendees": 283,
+        "event_date": "2023-04-17",
+        "virtual": true
+      },
+      {
+        "event_name": "Analytics Unconference",
+        "city": "Amsterdam",
+        "attendees": 217,
+        "event_date": "2023-04-16",
+        "virtual": false
+      },
+      {
+        "event_name": "DuckDB Community Meetup",
+        "city": "Paris",
+        "attendees": 49,
+        "event_date": "2023-06-08",
+        "virtual": true
+      },
+      {
+        "event_name": "DuckDB Community Meetup",
+        "city": "Amsterdam",
+        "attendees": 84,
+        "event_date": "2023-06-23",
+        "virtual": false
+      }
+    ]
+  },
+  {
+    "batch_id": 3,
+    "batch_name": "Q3 Events",
+    "records": [
+      {
+        "event_name": "Data Engineering Summit",
+        "city": "Tokyo",
+        "attendees": 154,
+        "event_date": "2023-08-18",
+        "virtual": false
+      },
+      {
+        "event_name": "Open Source Data Day",
+        "city": "San Francisco",
+        "attendees": 29,
+        "event_date": "2023-09-28",
+        "virtual": false
+      },
+      {
+        "event_name": "Data Engineering Summit",
+        "city": "Tokyo",
+        "attendees": 163,
+        "event_date": "2023-08-23",
+        "virtual": true
+      },
+      {
+        "event_name": "Data Engineering Summit",
+        "city": "Tokyo",
+        "attendees": 85,
+        "event_date": "2023-08-23",
+        "virtual": false
+      },
+      {
+        "event_name": "Data Engineering Summit",
+        "city": "Sydney",
+        "attendees": 126,
+        "event_date": "2023-07-15",
+        "virtual": true
+      },
+      {
+        "event_name": "SQL Analytics Workshop",
+        "city": "New York",
+        "attendees": 234,
+        "event_date": "2023-08-03",
+        "virtual": false
+      },
+      {
+        "event_name": "DuckDB Community Meetup",
+        "city": "Tokyo",
+        "attendees": 279,
+        "event_date": "2023-07-21",
+        "virtual": true
+      }
+    ]
+  },
+  {
+    "batch_id": 4,
+    "batch_name": "Q4 Events",
+    "records": [
+      {
+        "event_name": "SQL Analytics Workshop",
+        "city": "Amsterdam",
+        "attendees": 31,
+        "event_date": "2023-11-12",
+        "virtual": true
+      },
+      {
+        "event_name": "Local DuckDB User Group",
+        "city": "Berlin",
+        "attendees": 71,
+        "event_date": "2023-10-15",
+        "virtual": true
+      },
+      {
+        "event_name": "DuckDB Hands-On Lab",
+        "city": "San Francisco",
+        "attendees": 258,
+        "event_date": "2023-10-13",
+        "virtual": false
+      },
+      {
+        "event_name": "Local DuckDB User Group",
+        "city": "Amsterdam",
+        "attendees": 76,
+        "event_date": "2023-11-03",
+        "virtual": true
+      },
+      {
+        "event_name": "DuckDB Hands-On Lab",
+        "city": "New York",
+        "attendees": 185,
+        "event_date": "2023-10-06",
+        "virtual": false
+      },
+      {
+        "event_name": "Data Engineering Summit",
+        "city": "Amsterdam",
+        "attendees": 29,
+        "event_date": "2023-10-15",
+        "virtual": true
+      },
+      {
+        "event_name": "Open Source Data Day",
+        "city": "New York",
+        "attendees": 208,
+        "event_date": "2023-12-24",
+        "virtual": false
+      }
+    ]
+  },
+  {
+    "batch_id": 5,
+    "batch_name": "Q5 Events",
+    "records": [
+      {
+        "event_name": "Analytics Unconference",
+        "city": "New York",
+        "attendees": 118,
+        "event_date": "2024-01-12",
+        "virtual": true
+      },
+      {
+        "event_name": "Data Nerds Gathering",
+        "city": "Sydney",
+        "attendees": 164,
+        "event_date": "2024-02-21",
+        "virtual": false
+      },
+      {
+        "event_name": "Local DuckDB User Group",
+        "city": "Toronto",
+        "attendees": 110,
+        "event_date": "2024-03-29",
+        "virtual": true
+      },
+      {
+        "event_name": "DuckDB Community Meetup",
+        "city": "Berlin",
+        "attendees": 78,
+        "event_date": "2024-01-17",
+        "virtual": false
+      },
+      {
+        "event_name": "Local DuckDB User Group",
+        "city": "Paris",
+        "attendees": 249,
+        "event_date": "2024-03-16",
+        "virtual": true
+      },
+      {
+        "event_name": "Data Nerds Gathering",
+        "city": "New York",
+        "attendees": 39,
+        "event_date": "2024-03-19",
+        "virtual": true
+      }
+    ]
+  },
+  {
+    "batch_id": 6,
+    "batch_name": "Q6 Events",
+    "records": [
+      {
+        "event_name": "Data Engineering Summit",
+        "city": "Toronto",
+        "attendees": 250,
+        "event_date": "2024-06-02",
+        "virtual": true
+      },
+      {
+        "event_name": "DuckDB Hands-On Lab",
+        "city": "New York",
+        "attendees": 31,
+        "event_date": "2024-04-09",
+        "virtual": true
+      },
+      {
+        "event_name": "Analytics Unconference",
+        "city": "Tokyo",
+        "attendees": 292,
+        "event_date": "2024-06-25",
+        "virtual": true
+      },
+      {
+        "event_name": "SQL Analytics Workshop",
+        "city": "Sydney",
+        "attendees": 202,
+        "event_date": "2024-05-26",
+        "virtual": false
+      },
+      {
+        "event_name": "DuckDB Community Meetup",
+        "city": "Amsterdam",
+        "attendees": 105,
+        "event_date": "2024-04-20",
+        "virtual": false
+      },
+      {
+        "event_name": "Open Source Data Day",
+        "city": "Seattle",
+        "attendees": 276,
+        "event_date": "2024-06-03",
+        "virtual": false
+      },
+      {
+        "event_name": "Analytics Unconference",
+        "city": "London",
+        "attendees": 50,
+        "event_date": "2024-05-01",
+        "virtual": true
+      }
+    ]
+  },
+  {
+    "batch_id": 7,
+    "batch_name": "Q7 Events",
+    "records": [
+      {
+        "event_name": "SQL Analytics Workshop",
+        "city": "Seattle",
+        "attendees": 260,
+        "event_date": "2024-08-21",
+        "virtual": false
+      },
+      {
+        "event_name": "Local DuckDB User Group",
+        "city": "Seattle",
+        "attendees": 280,
+        "event_date": "2024-09-12",
+        "virtual": false
+      },
+      {
+        "event_name": "Data Engineering Summit",
+        "city": "Sydney",
+        "attendees": 34,
+        "event_date": "2024-08-10",
+        "virtual": true
+      },
+      {
+        "event_name": "Data Nerds Gathering",
+        "city": "Amsterdam",
+        "attendees": 310,
+        "event_date": "2024-08-21",
+        "virtual": true
+      },
+      {
+        "event_name": "DuckDB Hands-On Lab",
+        "city": "Tokyo",
+        "attendees": 312,
+        "event_date": "2024-07-12",
+        "virtual": true
+      },
+      {
+        "event_name": "Local DuckDB User Group",
+        "city": "New York",
+        "attendees": 211,
+        "event_date": "2024-09-22",
+        "virtual": true
+      },
+      {
+        "event_name": "Local DuckDB User Group",
+        "city": "New York",
+        "attendees": 311,
+        "event_date": "2024-07-29",
+        "virtual": false
+      }
+    ]
+  },
+  {
+    "batch_id": 8,
+    "batch_name": "Q8 Events",
+    "records": [
+      {
+        "event_name": "Local DuckDB User Group",
+        "city": "Seattle",
+        "attendees": 74,
+        "event_date": "2024-12-31",
+        "virtual": true
+      },
+      {
+        "event_name": "Analytics Unconference",
+        "city": "New York",
+        "attendees": 174,
+        "event_date": "2024-10-01",
+        "virtual": false
+      },
+      {
+        "event_name": "Data Engineering Summit",
+        "city": "Amsterdam",
+        "attendees": 109,
+        "event_date": "2024-12-29",
+        "virtual": false
+      },
+      {
+        "event_name": "Data Nerds Gathering",
+        "city": "Seattle",
+        "attendees": 155,
+        "event_date": "2024-10-18",
+        "virtual": true
+      },
+      {
+        "event_name": "Data Engineering Summit",
+        "city": "Toronto",
+        "attendees": 135,
+        "event_date": "2024-10-25",
+        "virtual": false
+      },
+      {
+        "event_name": "Analytics Unconference",
+        "city": "Seattle",
+        "attendees": 237,
+        "event_date": "2024-10-25",
+        "virtual": true
+      }
+    ]
+  }
+]
