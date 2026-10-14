@@ -1,1 +1,1 @@
-This repo contains exercise files required for the Pluralsight course: http://www.pluralsight.com/courses/x.
+This repo contains exercise files required for the Pluralsight course: https://app.pluralsight.com/ilx/video-courses/duckdb-extensions-motherduck.
